@@ -476,6 +476,11 @@ ninja.data = [{
           description: "Demonstration of the CLT",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CLT_2/";
+            },},{id: "projects-attrition-analysis-case-study",
+          title: 'Attrition Analysis - Case Study',
+          description: "Analaysis of Employee Attrition at Frito Lay",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Case-Study-1/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
