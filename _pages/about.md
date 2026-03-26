@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Business Operations Analyst at UTSW | Graduate Student in the Master's of Data Science Program at SMU
 
 profile:
   align: right
-  image: JoshuaSamuel.jpeg
+  image: JoshuaSamuel_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Josh! I grew up in Dallas. I love Data Science and working with others! Whamo!
 
-I graduated from Texas A&M in 2024!
+
+Hello there, my name is Joshua Samuel! I have been working as a Business Operations Analyst at UT Southwestern in the Academic Affairs Department for nearly 2 years now.   
+
+I graduated from Texas A&M in 2024 with an undergraduate degree in Statistics and am currently pursuing a Masters degree in Data Science from Southern Methodist University.
+
+Welcome to my page!
